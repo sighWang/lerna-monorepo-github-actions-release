@@ -1,7 +1,7 @@
 # @azu/mono-one
 
 One　
-- test
+test lerna monorepo github actions release workflow
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
