@@ -3,6 +3,7 @@
 Deps
 
 - one
+- test
 
 ## Install
 

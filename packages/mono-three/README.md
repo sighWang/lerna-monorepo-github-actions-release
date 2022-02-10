@@ -4,7 +4,7 @@ deps +
 
 - one
 - two
-
+- test
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
