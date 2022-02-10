@@ -3,7 +3,9 @@
 Deps
 
 - one
-- test
+
+test lerna monorepo github actions release workflow
+
 
 ## Install
 

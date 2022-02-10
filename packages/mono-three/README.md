@@ -4,7 +4,9 @@ deps +
 
 - one
 - two
-- test
+
+test lerna monorepo github actions release workflow
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
