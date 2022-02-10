@@ -1,4 +1,4 @@
-# @azu/mono-two
+# @sighwang/mono-two
 
 Deps
 
@@ -11,7 +11,7 @@ test lerna monorepo github actions release workflow
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install @azu/mono-two
+    npm install @sighwang/mono-two
 
 ## Usage
 
@@ -19,7 +19,7 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Changelog
 
-See [Releases page](https://github.com/azu/lerna-monorepo-github-actions-release/releases).
+See [Releases page](https://github.com/sighwang/lerna-monorepo-github-actions-release/releases).
 
 ## Running tests
 
@@ -31,7 +31,7 @@ Install devDependencies and Run `npm test`:
 
 Pull requests and stars are always welcome.
 
-For bugs and feature requests, [please create an issue](https://github.com/azu/lerna-monorepo-github-actions-release/issues).
+For bugs and feature requests, [please create an issue](https://github.com/sighwang/lerna-monorepo-github-actions-release/issues).
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -41,9 +41,9 @@ For bugs and feature requests, [please create an issue](https://github.com/azu/l
 
 ## Author
 
-- [github/azu](https://github.com/azu)
-- [twitter/azu_re](https://twitter.com/azu_re)
+- [github/sighwang](https://github.com/sighwang)
+- [twitter/sighwang_re](https://twitter.com/sighwang_re)
 
 ## License
 
-MIT © azu
+MIT © sighwang
