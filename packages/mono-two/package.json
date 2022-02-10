@@ -1,6 +1,6 @@
 {
   "name": "@sighwang/mono-two",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "",
   "homepage": "https://github.com/sighwang/lerna-monorepo-github-actions-release/tree/master/packages/mono-two/",
   "bugs": {
@@ -25,7 +25,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "@sighwang/mono-one": "^2.1.6"
+    "@sighwang/mono-one": "^2.1.7"
   },
   "publishConfig": {
     "access": "public"
